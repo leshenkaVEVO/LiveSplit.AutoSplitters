@@ -13591,4 +13591,14 @@
         <Description>Autosplitter for Spectrolite by Rexicon226</Description>
         <Website>https://github.com/Rexicon226/Spectrolite-Autosplitter</Website>
     </AutoSplitter>
+<AutoSplitter>
+        <Games>
+            <Game>Manhunt</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/leshenkaVEVO/Autosplitters/blob/main/Manhunt.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter. Automatic timer start, split and reset (by leshenka)</Description>
+    </AutoSplitter>
 </AutoSplitters>
